@@ -1,0 +1,43 @@
+
+# Setup
+title:               Requestly
+email:               requestly.extension@gmail.com
+tagline:             Modify network requests
+url:                 "" # insert your site's URL
+baseurl:             ""
+
+# About/contact
+author: # you can edit these to be your personal details
+  name:              Sachin Jain
+  url:               https://twitter.com/sachinjain024
+  email:
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Social
+github_username: requestly
+twitter_username: requestly64
+# instagram_username: kevin/
+facebook: requestly/
+# linkedin_username: xiaoying
+# dribbble_username: Xiaoying
+
+# Custom vars
+version:             4.2.0
+github:
+  repo:              https://github.com/requestly/requestly-browser-extension
+
+# Gems - Dependencies for this theme
+gems:
+  # None currently
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
