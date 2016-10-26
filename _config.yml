@@ -2,7 +2,7 @@
 # Setup
 title:               Requestly
 email:               requestly.extension@gmail.com
-tagline:             Modify network requests
+tagline:             Chrome and Firefox extension to modify network requests
 url:                 "" # insert your site's URL
 baseurl:             ""
 
@@ -33,6 +33,13 @@ facebook: requestly/
 version:             4.2.0
 github:
   repo:              https://github.com/requestly/requestly-browser-extension
+
+requestly:
+  firefox:
+    download_url: https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.1.9.xpi
+  chrome:
+    download_url: https://chrome.google.com/webstore/detail/requestly/mdnleldcmiljblolnjhpnblkcekpdkpa
+
 
 # Gems - Dependencies for this theme
 gems:
