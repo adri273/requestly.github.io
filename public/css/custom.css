@@ -13,7 +13,7 @@ img.browser-icon {
 /* ======= gallery Section ======= */
 .gallery {
   padding: 80px 20px;
-  background: #ccc;
+  background: #f5f5f5;
 }
 .gallery .title {
   color: #074f66;
@@ -24,7 +24,7 @@ img.browser-icon {
 /* ====== Testimonial Section ======= */
 .testimonials {
   padding: 60px 0;
-  background: #17baef;
+  background: #eebf3f;
 }
 
 .testimonials .title {
@@ -44,3 +44,9 @@ img.browser-icon {
 .testimonials .testimonial-card.card-3 .card-up {
   background: #007E33;
 }
+
+/* ======== Contact Section ======== */
+.contact .author-message .sub-title {
+  font-weight: bold;
+}
+

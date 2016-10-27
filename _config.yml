@@ -63,6 +63,8 @@ gallery:
       title: Share Rules dialog
       desc: Select some rules and click on share icon to generate a public Url.
 
+paypalMe: https://paypal.me/sachinjain024
+
 # Gems - Dependencies for this theme
 gems:
   # None currently
