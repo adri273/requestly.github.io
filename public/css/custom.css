@@ -12,11 +12,35 @@ img.browser-icon {
 
 /* ======= gallery Section ======= */
 .gallery {
-  padding: 30px 20px;
+  padding: 80px 20px;
   background: #ccc;
 }
 .gallery .title {
   color: #074f66;
   margin-top: 0;
   margin-bottom: 30px;
+}
+
+/* ====== Testimonial Section ======= */
+.testimonials {
+  padding: 60px 0;
+  background: #17baef;
+}
+
+.testimonials .title {
+  color: #074f66;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.testimonials .testimonial-card.card-1 .card-up {
+  background: #CC0000;
+}
+
+.testimonials .testimonial-card.card-2 .card-up {
+  background: #1a237e;
+}
+
+.testimonials .testimonial-card.card-3 .card-up {
+  background: #007E33;
 }

@@ -1,0 +1,23 @@
+<!-- ******TESTIMONIAL****** -->
+<section id="testimonials" class="testimonials section section-white">
+  <h2 class="title">Testimonials</h2>
+  <div class="container container-small">
+      <div class="row wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+        {% for testimonial in site.data.testimonials %}
+        <div class="col-md-4">
+          <div class="testimonial-card z-depth-1 card-{{forloop.index}}">
+            <div class="card-up darken-4">
+            </div>
+            <div class="avatar">
+              <img src="{{testimonial.profileImage}}" class="img-circle img-responsive">
+            </div>
+            <div class="card-content">
+              <h5>{{testimonial.author}}</h5>
+              <p><i class="fa fa-quote-left"></i>{{testimonial.content}}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+</section><!--//testimonial->

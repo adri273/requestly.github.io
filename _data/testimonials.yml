@@ -1,0 +1,16 @@
+# Testimonial Content
+
+- author: Alain Bienvenue
+  profileImage: https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECJ-SgNP0roaXyQEiC3ZjYXJkX3Bob3RvKihhMjJhOWJmM2ZhNTRjODJmOTU3ZWQzMjJjOThjYmE2OWY1OWIyODA0MAEnwwWVXjcXm_h8vTd-p0hjt5zrUg
+  profileLink: https://plus.google.com/114496552250691815711
+  content: Got it installed configured in less than 5 minutes. We have a production environment where the load balancer injects info into the header on each requests. To test those, we need to inject the same data from the browser (we do not run LB locally !). After testing it, I was able to extract the settings and distribute them to the whole team. I could not ask for anything better for my use.
+
+- author: Travis Pederson
+  profileImage: https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECKWHhYqFzZj43AEiC3ZjYXJkX3Bob3RvKig3NjAwYmQwMjM3N2EzOTAwOGE3ZGVlZGZmMmFjZTM0OTlmMmI2MTEwMAHH4V3tYGmstLazRF8cnqgbNgrlxA
+  profileLink: https://plus.google.com/115920332882934055845
+  content: I use this app to keep me focused when going to YouTube or Facebook by redirecting each to a specific page on that domain. For example, on YouTube, I redirect to a specific channel and on Facebook I redirect to my business page. Other extensions will loop if you are redirecting to the same domain but this one doesn't. That makes it much better than the 5 other extensions I've tried for this purpose. Thanks!!
+
+- author: Adam Waller
+  profileImage: https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECPrVnueRscH2tgEiC3ZjYXJkX3Bob3RvKigzNjljOTMzZmQ5ZTBmZDM1MmIzZmNiYzg0ZjZjYzc0NTYwZTM4M2IzMAFWiYc0U-aZ_fyFnGvf5RLMot2uDA
+  profileLink: https://plus.google.com/+AdamWallerFamily
+  content: This handy extension allowed us to solve a tricky problem with an iPrism Web Filter. We needed the https youtube links to be changed to http (non-ssl) links for the proxy server to filter and log this traffic in our corporate environment. Some documentation would be a great addition to the extension, but I was eventually able to figure it out through trial-and-error testing.
