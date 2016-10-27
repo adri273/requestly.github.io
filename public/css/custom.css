@@ -12,26 +12,11 @@ img.browser-icon {
 
 /* ======= gallery Section ======= */
 .gallery {
-  padding: 80px 0;
+  padding: 30px 20px;
   background: #ccc;
-  color: #fff;
 }
 .gallery .title {
   color: #074f66;
   margin-top: 0;
   margin-bottom: 30px;
-}
-.gallery a {
-  color: #074f66;
-}
-.gallery a:hover {
-  color: #042a36;
-}
-.gallery .feature-list li {
-  margin-bottom: 10px;
-  color: #074f66;
-}
-.gallery .feature-list li .fa {
-  margin-right: 5px;
-  color: #fff;
 }

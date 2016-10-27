@@ -40,6 +40,28 @@ requestly:
   chrome:
     download_url: https://chrome.google.com/webstore/detail/requestly/mdnleldcmiljblolnjhpnblkcekpdkpa
 
+gallery:
+  item1:
+    card1:
+      title: Rule Types Screen
+      desc: Requestly supports different rule types to achieve different use cases
+    card2:
+      title: Rule Index Screen
+      desc: Lists all the rules created so far with quick activation and deactivation of rules.
+  item2:
+    card1:
+      title: Redirect Rule Screen
+      desc: Redirect Url(s) matching particular pattern to provided destination url (Supports Regex)
+    card2:
+      title: Replace Rule Screen
+      desc: Replace some part in a Url with different string (e.g. Change query parameter values, Change host names)
+  item3:
+    card1:
+      title: Headers Rule Screen
+      desc: Modify Request and Response Headers. Note - Modifications in response headers are not visible in chrome dev tools.
+    card2:
+      title: Share Rules dialog
+      desc: Select some rules and click on share icon to generate a public Url.
 
 # Gems - Dependencies for this theme
 gems:
