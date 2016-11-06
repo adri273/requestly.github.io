@@ -30,13 +30,13 @@ facebook: requestly/
 # dribbble_username: Xiaoying
 
 # Custom vars
-version:             4.2.0
+version:             4.2.1
 github:
   repo:              https://github.com/requestly/requestly-browser-extension
 
 requestly:
   firefox:
-    download_url: https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.1.9.xpi
+    download_url: https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.2.1.xpi
   chrome:
     download_url: https://chrome.google.com/webstore/detail/requestly/mdnleldcmiljblolnjhpnblkcekpdkpa
 
