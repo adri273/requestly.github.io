@@ -10,6 +10,11 @@ img.browser-icon {
   width: 20px;
 }
 
+/* ====== Promo Section ========= */
+.promo .intro {
+  font-size: 26px;
+}
+
 /* ======= gallery Section ======= */
 .gallery {
   padding: 80px 20px;
