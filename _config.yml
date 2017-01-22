@@ -35,7 +35,7 @@ github:
 
 requestly:
   firefox:
-    download_url: https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-latest.xpi
+    download_url: http://requestly.in/public/firefox/requestly-latest.xpi
   chrome:
     download_url: https://chrome.google.com/webstore/detail/requestly/mdnleldcmiljblolnjhpnblkcekpdkpa
 
