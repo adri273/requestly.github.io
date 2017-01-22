@@ -31,11 +31,12 @@ facebook: requestly/
 
 # Custom vars
 github:
-  repo:              https://github.com/requestly/requestly-browser-extension
+  repo: https://github.com/requestly
 
 requestly:
   firefox:
-    download_url: http://requestly.in/public/firefox/requestly-latest.xpi
+    download_url: https://github.com/requestly/requestly.github.io/raw/master/public/firefox/requestly-latest.xpi
+
   chrome:
     download_url: https://chrome.google.com/webstore/detail/requestly/mdnleldcmiljblolnjhpnblkcekpdkpa
 
