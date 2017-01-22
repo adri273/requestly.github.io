@@ -1,0 +1,28 @@
+{
+  "addons": {
+    "extension@requestly.in": {
+      "updates": [
+        { 
+          "version": "4.2.3",
+          "update_link": "https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.2.3.xpi" 
+        },
+        { 
+          "version": "4.2.4",
+          "update_link": "https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.2.4.xpi" 
+        },
+        { 
+          "version": "4.2.6",
+          "update_link": "https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.2.6.xpi" 
+        },
+        { 
+          "version": "4.2.7",
+          "update_link": "https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.2.7.xpi" 
+        },
+        { 
+          "version": "4.2.8",
+          "update_link": "https://dl.dropboxusercontent.com/u/71743966/requestly/firefox/requestly-4.2.8.xpi" 
+        }
+      ]
+    }
+  }
+}
